@@ -18,7 +18,7 @@ The dashboard was built using the following tools and technologies:
 🗃️ Data Modeling – Used to organize the BlinkIT grocery dataset and establish relationships/fields for interactive analysis.
 📈 Data Visualization – Used charts, KPI cards, slicers, donut charts, bar charts, line charts, funnel charts, and tables.
 📁 File Format – .pbix for Power BI development and dashboard sharing.
-4. Data Source
+### Data Source
 
 Source: BlinkIT Grocery Dataset
 
@@ -40,7 +40,7 @@ Average Rating
 
 The data is structured to support analysis of both product-level performance and outlet-level sales performance.
 
-5. Features / Highlights
+### Features / Highlights
 • Business Problem
 
 Grocery businesses generate large amounts of sales and product data across different outlets and product categories. However, analyzing raw data makes it difficult to quickly identify top-performing products, profitable outlet types, sales trends, and customer preferences.
